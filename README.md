@@ -1,4 +1,4 @@
-# CalculatorApp
+# Calculator
 
 A simple calculator web application built using ASP.NET Core MVC. This app allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division, with error handling for invalid inputs.
 
